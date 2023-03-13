@@ -2,11 +2,11 @@ from setuptools import setup
 
 
 setup(
-    name='fastapi_http_response',
+    name='fastapi_doc_http_response',
     description="This is a Python package that simplifies the definition of standard HTTP responses for FastAPI APIs.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    version='0.0.2',
+    version='0.0.3',
     author='Tharles Amaro',
     author_email='tharlesamaro@gmail.com',
     url="https://github.com/tharlesamaro/fastapi-doc-http-response",
