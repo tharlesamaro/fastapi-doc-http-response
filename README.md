@@ -2,6 +2,8 @@
 
 ## FastAPI Doc HTTP Response
 
+[![codecov](https://codecov.io/gh/tharlesamaro/fastapi-doc-http-response/branch/main/graph/badge.svg?token=VAY93FNZCA)](https://codecov.io/gh/tharlesamaro/fastapi-doc-http-response)
+
 FastAPI Doc HTTP Response is a Python package that facilitates the definition of standard HTTP responses for FastAPI APIs and allows for easy addition of HTTP returns to the API documentation. With this package, you can easily create standard responses for the most common HTTP status codes.
 
 FastAPI provides automatic documentation for your routes, including the expected HTTP responses for each route. By default, FastAPI only includes a few HTTP return codes in the documentation. With FastAPI Doc HTTP Response, you can easily add other HTTP return codes, ensuring that your API documentation is complete and accurate.
@@ -96,4 +98,4 @@ The HTTP return codes supported by FastAPI Doc HTTP Response are:
 - 500 Internal Server Error
 
 ### License
-This package is licensed under the [MIT License](https://opensource.org/license/mit/).
+This package is licensed under the [MIT License](https://opensource.org/license/mit/). See the [LICENSE](./LICENSE) file for details.
