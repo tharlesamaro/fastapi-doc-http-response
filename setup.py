@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 
 setup(
@@ -11,7 +11,7 @@ setup(
     url="https://github.com/tharlesamaro/fastapi-doc-http-response",
     license='MIT',
     keywords=["fastapi", "http", "response", "api", "documentation"],
-    packages=find_packages(),
+    packages=['fastapi_doc_http_response', 'tests'],
     install_requires=[
         'fastapi',
     ],
