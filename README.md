@@ -1,4 +1,4 @@
-> Para ler este README em portugês do Brasil, clique [aqui](./README_br.md).
+> Para ler este README em portugês do Brasil, clique [aqui](https://github.com/tharlesamaro/fastapi-doc-http-response/blob/main/README_br.md).
 
 ## FastAPI Doc HTTP Response
 
@@ -98,4 +98,4 @@ The HTTP return codes supported by FastAPI Doc HTTP Response are:
 - 500 Internal Server Error
 
 ### License
-This package is licensed under the [MIT License](https://opensource.org/license/mit/). See the [LICENSE](./LICENSE) file for details.
+This package is licensed under the [MIT License](https://opensource.org/license/mit/). See the [LICENSE](https://github.com/tharlesamaro/fastapi-doc-http-response/blob/main/LICENSE) file for details.

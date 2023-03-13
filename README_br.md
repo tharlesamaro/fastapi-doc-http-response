@@ -98,4 +98,4 @@ Os códigos de retorno HTTP suportados pelo FastAPI Doc HTTP Response são:
 - 500 Internal Server Error
 
 ### Licença
-Este pacote é licenciado sob a [MIT License](https://opensource.org/license/mit/). Consulte o arquivo [LICENSE](./LICENSE) para obter mais informações.
+Este pacote é licenciado sob a [MIT License](https://opensource.org/license/mit/). Consulte o arquivo [LICENSE](https://github.com/tharlesamaro/fastapi-doc-http-response/blob/main/LICENSE) para obter mais informações.
