@@ -2,7 +2,18 @@
 
 ## FastAPI Doc HTTP Response
 
-[![codecov](https://codecov.io/gh/tharlesamaro/fastapi-doc-http-response/branch/main/graph/badge.svg?token=VAY93FNZCA)](https://codecov.io/gh/tharlesamaro/fastapi-doc-http-response)
+<tr>
+    <td>
+      <a href="https://codecov.io/gh/tharlesamaro/fastapi-doc-http-response">
+        <img src="https://codecov.io/gh/tharlesamaro/fastapi-doc-http-response/branch/main/graph/badge.svg?token=VAY93FNZCA" alt="codecov">
+      </a>
+    </td>
+    <td>
+      <a href="https://pypi.org/project/fastapi-doc-http-response">
+        <img src="https://img.shields.io/pypi/v/fastapi_doc_http_response?color=blue" alt="pypi">
+      </a>
+    </td>
+</tr>
 
 O FastAPI Doc HTTP Response é um pacote Python que facilita a definição de respostas HTTP padrão para APIs FastAPI e permite adicionar facilmente retornos HTTP na documentação da API. Com este pacote, é possível criar facilmente respostas padrão para os códigos de status HTTP mais comuns.
 
